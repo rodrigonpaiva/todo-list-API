@@ -24,7 +24,7 @@ Ceci est le dépôt d'une API pour la création et la gestion d'une liste de tâ
 1. **Cloner le dépôt :**
 
    ```bash
-   git clone https://github.com/votre-utilisateur/todo-list-api.git
+   git clone https://github.com/rodrigonpaiva/todo-list-API.git
    cd todo-list-api
    ```
 
